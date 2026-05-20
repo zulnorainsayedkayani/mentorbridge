@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 
 namespace mentorbridge
-{
+{ // match engine - matches students with mentors 
     public class MatchEngine
     {
         public static List<Mentor> FindMatchingMentors(
